@@ -1,7 +1,7 @@
 {
   "name": "di---study",
   "version": "1.0.0",
-  "description": "A study on depedency injection",
+  "description": "A study on dependency injection",
   "private": true,
   "workspaces": [
     "packages/*"

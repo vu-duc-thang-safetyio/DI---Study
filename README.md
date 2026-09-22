@@ -1,5 +1,5 @@
 # DI---Study
-A study on depedency injection
+A study on dependency injection
 
 ## Workspace
 
