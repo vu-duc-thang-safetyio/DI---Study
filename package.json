@@ -1,0 +1,20 @@
+{
+  "name": "di---study",
+  "version": "1.0.0",
+  "description": "A study on depedency injection",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "tsc -b",
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/vu-duc-thang-safetyio/DI---Study"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
